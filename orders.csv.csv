@@ -1,0 +1,61 @@
+order_id,customer_id,order_date,ship_date,ship_mode,order_status,payment_method
+ORD-1001,C005,15-Jan-24,18-Jan-24,Standard,Delivered,UPI
+ORD-1002,C012,16-Jan-24,19-Jan-24,Express,Delivered,Credit Card
+ORD-1003,C007,17-Jan-24,20-Jan-24,Standard,Delivered,Debit Card
+ORD-1004,C001,18-Jan-24,21-Jan-24,Express,Delivered,UPI
+ORD-1005,C020,19-Jan-24,22-Jan-24,Standard,Delivered,Net Banking
+ORD-1006,C010,20-Jan-24,23-Jan-24,Standard,Delivered,UPI
+ORD-1007,C003,21-Jan-24,24-Jan-24,Express,Delivered,Credit Card
+ORD-1008,C015,22-Jan-24,25-Jan-24,Same Day,Delivered,Cash
+ORD-1009,C004,23-Jan-24,26-Jan-24,Standard,Delivered,UPI
+ORD-1010,C024,24-Jan-24,27-Jan-24,Standard,Delivered,Debit Card
+ORD-1011,C018,25-Jan-24,28-Jan-24,Express,Delivered,Credit Card
+ORD-1012,C029,26-Jan-24,29-Jan-24,Standard,Delivered,UPI
+ORD-1013,C002,27-Jan-24,30-Jan-24,Standard,Delivered,Credit Card
+ORD-1014,C011,28-Jan-24,31-Jan-24,Express,Delivered,Net Banking
+ORD-1015,C026,29-Jan-24,1-Feb-24,Standard,Delivered,UPI
+ORD-1016,C008,30-Jan-24,2-Feb-24,Standard,Delivered,Debit Card
+ORD-1017,C021,31-Jan-24,3-Feb-24,Express,Delivered,Credit Card
+ORD-1018,C013,1-Feb-24,4-Feb-24,Standard,Delivered,UPI
+ORD-1019,C030,2-Feb-24,5-Feb-24,Same Day,Delivered,Cash
+ORD-1020,C006,3-Feb-24,6-Feb-24,Standard,Delivered,UPI
+ORD-1021,C017,4-Feb-24,7-Feb-24,Express,Delivered,Credit Card
+ORD-1022,C009,5-Feb-24,8-Feb-24,Standard,Delivered,UPI
+ORD-1023,C023,6-Feb-24,9-Feb-24,Standard,Delivered,Debit Card
+ORD-1024,C014,7-Feb-24,10-Feb-24,Express,Delivered,Credit Card
+ORD-1025,C025,8-Feb-24,11-Feb-24,Standard,Delivered,UPI
+ORD-1026,C019,9-Feb-24,12-Feb-24,Standard,Delivered,Net Banking
+ORD-1027,C028,10-Feb-24,13-Feb-24,Express,Delivered,UPI
+ORD-1028,C016,11-Feb-24,14-Feb-24,Same Day,Delivered,Cash
+ORD-1029,C005,12-Feb-24,15-Feb-24,Standard,Delivered,UPI
+ORD-1030,C012,13-Feb-24,16-Feb-24,Express,Delivered,Credit Card
+ORD-1031,C022,14-Feb-24,17-Feb-24,Standard,Delivered,Debit Card
+ORD-1032,C001,15-Feb-24,18-Feb-24,Standard,Delivered,UPI
+ORD-1033,C020,16-Feb-24,19-Feb-24,Express,Delivered,Credit Card
+ORD-1034,C010,17-Feb-24,20-Feb-24,Standard,Delivered,UPI
+ORD-1035,C003,18-Feb-24,21-Feb-24,Standard,Delivered,Net Banking
+ORD-1036,C015,19-Feb-24,22-Feb-24,Express,Delivered,Credit Card
+ORD-1037,C004,20-Feb-24,23-Feb-24,Same Day,Delivered,Cash
+ORD-1038,C024,21-Feb-24,24-Feb-24,Standard,Delivered,UPI
+ORD-1039,C018,22-Feb-24,25-Feb-24,Express,Delivered,Credit Card
+ORD-1040,C029,23-Feb-24,26-Feb-24,Standard,Delivered,UPI
+ORD-1041,C002,24-Feb-24,27-Feb-24,Standard,Delivered,Credit Card
+ORD-1042,C011,25-Feb-24,28-Feb-24,Express,Delivered,UPI
+ORD-1043,C026,26-Feb-24,29-Feb-24,Standard,Delivered,Debit Card
+ORD-1044,C008,27-Feb-24,1-Mar-24,Express,Delivered,Credit Card
+ORD-1045,C021,28-Feb-24,2-Mar-24,Standard,Delivered,UPI
+ORD-1046,C013,29-Feb-24,3-Mar-24,Standard,Delivered,Net Banking
+ORD-1047,C030,1-Mar-24,4-Mar-24,Express,Delivered,UPI
+ORD-1048,C006,2-Mar-24,5-Mar-24,Standard,Delivered,Credit Card
+ORD-1049,C017,3-Mar-24,6-Mar-24,Standard,Delivered,UPI
+ORD-1050,C009,4-Mar-24,7-Mar-24,Same Day,Delivered,Cash
+ORD-1051,C023,5-Mar-24,8-Mar-24,Standard,Delivered,UPI
+ORD-1052,C014,6-Mar-24,9-Mar-24,Express,Delivered,Credit Card
+ORD-1053,C025,7-Mar-24,10-Mar-24,Standard,Delivered,Debit Card
+ORD-1054,C019,8-Mar-24,11-Mar-24,Standard,Delivered,UPI
+ORD-1055,C028,9-Mar-24,12-Mar-24,Express,Delivered,Credit Card
+ORD-1056,C016,10-Mar-24,13-Mar-24,Standard,Delivered,UPI
+ORD-1057,C005,11-Mar-24,14-Mar-24,Standard,Delivered,Debit Card
+ORD-1058,C012,12-Mar-24,15-Mar-24,Express,Delivered,UPI
+ORD-1059,C022,13-Mar-24,16-Mar-24,Standard,Delivered,Credit Card
+ORD-1060,C001,14-Mar-24,17-Mar-24,Express,Delivered,UPI

@@ -1,0 +1,31 @@
+customer_id,first_name,last_name,email,city,state,country,signup_date,customer_segment
+C001,Aarav,Sharma,aarav.sharma@example.com,Mumbai,Maharashtra,India,15-Mar-23,Regular
+C002,Diya,Verma,diya.verma@example.com,Delhi,Delhi,India,16-Mar-23,Premium
+C003,Vivaan,Gupta,vivaan.gupta@example.com,Bangalore,Karnataka,India,17-Mar-23,Regular
+C004,Ananya,Patel,ananya.patel@example.com,Hyderabad,Telangana,India,18-Mar-23,VIP
+C005,Aditya,Kumar,aditya.kumar@example.com,Chennai,Tamil Nadu,India,19-Mar-23,New
+C006,Saanvi,Singh,saanvi.singh@example.com,Kolkata,West Bengal,India,20-Mar-23,Regular
+C007,Arjun,Reddy,arjun.reddy@example.com,Pune,Maharashtra,India,21-Mar-23,Premium
+C008,Anika,Nair,anika.nair@example.com,Ahmedabad,Gujarat,India,22-Mar-23,Regular
+C009,Reyansh,Iyer,reyansh.iyer@example.com,Jaipur,Rajasthan,India,23-Mar-23,New
+C010,Pari,Mehta,pari.mehta@example.com,Lucknow,Uttar Pradesh,India,24-Mar-23,VIP
+C011,Krishna,Joshi,krishna.joshi@example.com,Kochi,Kerala,India,25-Mar-23,Regular
+C012,Aadhya,Rao,aadhya.rao@example.com,Indore,Madhya Pradesh,India,26-Mar-23,Premium
+C013,Ishaan,Kulkarni,ishaan.kulkarni@example.com,Mumbai,Maharashtra,India,27-Mar-23,New
+C014,Navya,Chopra,navya.chopra@example.com,Delhi,Delhi,India,28-Mar-23,Regular
+C015,Atharv,Malhotra,atharv.malhotra@example.com,Bangalore,Karnataka,India,29-Mar-23,VIP
+C016,Myra,Kapoor,myra.kapoor@example.com,Hyderabad,Telangana,India,30-Mar-23,Regular
+C017,Sai,Bose,sai.bose@example.com,Chennai,Tamil Nadu,India,31-Mar-23,Premium
+C018,Sara,Das,sara.das@example.com,Kolkata,West Bengal,India,1-Apr-23,New
+C019,Arnav,Khan,arnav.khan@example.com,Pune,Maharashtra,India,2-Apr-23,Regular
+C020,Ira,Ahmed,ira.ahmed@example.com,Ahmedabad,Gujarat,India,3-Apr-23,Premium
+C021,Aarohi,Sharma,aarohi.sharma@example.com,Jaipur,Rajasthan,India,4-Apr-23,VIP
+C022,Anvi,Verma,anvi.verma@example.com,Lucknow,Uttar Pradesh,India,5-Apr-23,New
+C023,Prisha,Gupta,prisha.gupta@example.com,Kochi,Kerala,India,6-Apr-23,Regular
+C024,Riya,Patel,riya.patel@example.com,Indore,Madhya Pradesh,India,7-Apr-23,Premium
+C025,Kiara,Kumar,kiara.kumar@example.com,Mumbai,Maharashtra,India,8-Apr-23,Regular
+C026,Meera,Singh,meera.singh@example.com,Delhi,Delhi,India,9-Apr-23,VIP
+C027,Kavya,Reddy,kavya.reddy@example.com,Bangalore,Karnataka,India,10-Apr-23,New
+C028,Nisha,Nair,nisha.nair@example.com,Hyderabad,Telangana,India,11-Apr-23,Regular
+C029,Pooja,Iyer,pooja.iyer@example.com,Chennai,Tamil Nadu,India,12-Apr-23,Premium
+C030,Divya,Mehta,divya.mehta@example.com,Kolkata,West Bengal,India,13-Apr-23,Regular

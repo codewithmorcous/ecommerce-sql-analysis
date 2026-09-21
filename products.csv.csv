@@ -1,0 +1,16 @@
+product_id,product_name,category,subcategory,unit_price,cost_price,supplier
+P001,Wireless Headphones,Electronics,Audio,1999,1199,Supplier-A
+P002,Smartphone,Electronics,Mobile,14999,10500,Supplier-B
+P003,Laptop,Electronics,Computers,45999,35000,Supplier-C
+P004,Smartwatch,Electronics,Wearables,2999,1800,Supplier-A
+P005,Bluetooth Speaker,Electronics,Audio,1499,850,Supplier-B
+P006,Cotton T-Shirt,Clothing,Tops,499,250,Supplier-D
+P007,Denim Jeans,Clothing,Bottoms,1299,750,Supplier-D
+P008,Winter Jacket,Clothing,Outerwear,2499,1500,Supplier-E
+P009,Saree,Clothing,Traditional,3499,2100,Supplier-D
+P010,Kurta,Clothing,Traditional,899,500,Supplier-E
+P011,Cookware Set,Home,Kitchen,1999,1200,Supplier-A
+P012,Bedding Set,Home,Bedroom,1499,900,Supplier-C
+P013,LED Lamp,Home,Lighting,799,450,Supplier-B
+P014,Cricket Bat,Sports,Cricket,1499,900,Supplier-E
+P015,Yoga Mat,Sports,Fitness,699,400,Supplier-D

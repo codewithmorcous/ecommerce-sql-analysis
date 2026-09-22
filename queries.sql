@@ -1,8 +1,12 @@
 create database ecommerce_db;
 use ecommerce_db;
+-- Customers Tables
 select * from customers;
+-- Products Tables
 select * from products;
+-- Orders Tables
 select * from orders;
+--orders_items Tables
 select * from order_items;
 
 -- Basic Queries
